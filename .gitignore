@@ -212,3 +212,5 @@ ENV/
 /site
 
 # End of https://www.gitignore.io/api/macos,linux,django,python,pycharm
+DjangoAPI/priv.ppk
+DjangoAPI/phandomat1-1717017098189-63059c04887a.json
